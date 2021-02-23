@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **kowshid@outlook.com**
 
-- 📄 Know about my experiences here (https://tinyurl.com/1iiz8nhv)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1QraCObhNKFpbDE-LG1oCEQWJpVlZXqwW/view?usp=sharing">here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
