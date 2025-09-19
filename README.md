@@ -8,13 +8,13 @@
   />
 </p>
 
-- 🔭 I’m currently working with **AWS components and Flask** 
+- 🔭 I am currently working with **AWS components and Flask** 
 
-- 🌱 I’m currently learning **System Design** 
+- 🌱 I am currently learning **System Design** 
 
 - 💬 Ask me about **reactive and functional programming** 
 
-- 📫 How to reach me **kabirs@mail.gvsu.edu** 
+- 📫 I can be reached at **kabirs@mail.gvsu.edu** 
 
 - 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1Vg2A-cLroqWH32VFkDt0kmPW4xo2F4OY" target="_blank">here</a>
 
