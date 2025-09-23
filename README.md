@@ -1,32 +1,20 @@
-<h1 align="center">Hi 👋, I'm Ahsan</h1>
+<h1 align="center">Hi 👋, I am Ahsan</h1>
 <h3 align="center">Graduate Research Assistant @GVSU | ex-bKash | BUET CSE Graduate</h3>
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=kowshid&label=Profile%20views&color=0e75b6&style=flat"
-    alt="kowshid"
-  />
-</p>
+<h3 align="center">Software Engineer | Cloud Enthusiast</h3>
 
-- 🔭 I’m currently working with **Spring WebFlux and AWS components** 
+- 🔭 I am currently working with **Flask and AWS components** 
 
-- 🌱 I’m currently learning **System Design** 
+- 🌱 I am currently learning **System Design** 
 
 - 💬 Ask me about **reactive and functional programming** 
 
-- 📫 How to reach me **kabirs@mail.gvsu.edu** 
+- 📫 I can be reached at **kabirs@mail.gvsu.edu**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1MEoSauiuDv5fdFEYiWehWchvZ5aQ7aAy?usp=drive_link" target="_blank">here</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/drive/u/1/folders/1Vg2A-cLroqWH32VFkDt0kmPW4xo2F4OY" target="_blank">here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/kowshid" target="blank"
-    ><img∏
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="kowshid"
-      height="30"
-      width="40"
-  /></a>
+  <a href="https://linkedin.com/in/kowshid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kowshid" height="30" width="40" /></a>
   <a href="https://instagram.com/kowshid" target="blank"
     ><img
       align="center"
@@ -255,6 +243,13 @@
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=kowshid&show_icons=true&locale=en&layout=compact"
+    alt="kowshid"
+  />
+</p>
+
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=kowshid&label=Profile%20views&color=0e75b6&style=flat"
     alt="kowshid"
   />
 </p>
