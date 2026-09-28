@@ -1,13 +1,13 @@
 <div align="center">
 
 ## Hello, I am Ahsan
-### Graduate Research Assistant @GVSU | ex-bKash | BUET CSE Graduate
+### Graduate Student @GVSU | ex-bKash | BUET CSE Graduate
 ### Software Engineer | Cloud Enthusiast
 
 </div>
 
 
-I am currently pursuing my Master’s in Computer Science at Grand Valley State University, MI. I am a Graduate Assistant under the supervision of Dr. Rahat Ibn Rafiq, Assistant Professor in the College of Computing. Our project focuses on developing a system that makes plant disease detection more efficient and accessible.
+I am currently pursuing my Master’s in Computer Science at Grand Valley State University, MI. I was a Graduate Assistant under the supervision of Dr. Rahat Ibn Rafiq, Assistant Professor in the College of Computing. Our project focused on developing a system that makes plant disease detection more efficient and accessible.
 
 
 Before starting my graduate studies, I worked as a Software Engineer at bKash. As part of the payment gateway team, I developed systems using reactive programming and AWS components that serve over 30 million regular users. Prior to that, I worked at REVE Systems, where I contributed to enterprise software solutions for the telecommunications sector.
